@@ -1,0 +1,6 @@
+id: geyserfloatingpoints
+name: GeyserFloatingPoints
+main: oxy.geyser.fp.GeyserFloatingPoints
+api: 2.10.1
+version: 2.0.0-1.21.8-compat.2
+authors: [oryxel, compatibility-maintainers]

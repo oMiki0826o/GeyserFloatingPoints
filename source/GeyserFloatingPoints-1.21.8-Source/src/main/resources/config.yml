@@ -1,0 +1,4 @@
+# Maximum local X/Z distance before moving the Bedrock player's local origin.
+capped-value: 3000
+# Display the actual Java position in the Bedrock action bar.
+show-position-by-default: true

@@ -1,0 +1,30 @@
+# Build outputs and local Gradle state
+.gradle/
+**/build/
+*.class
+
+# Published binaries and source archives are release artifacts
+*.jar
+*.zip
+
+# Local test servers, proxies, worlds, logs, and diagnostics
+test-server/
+test-proxy/
+server-snapshot/
+diagnostics/
+logs/
+crash-reports/
+*.log
+*.log.gz
+
+# IDE and operating-system files
+.idea/
+.vscode/
+*.iml
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local secrets
+.env
+.env.*
